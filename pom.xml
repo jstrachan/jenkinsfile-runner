@@ -59,7 +59,7 @@ THE SOFTWARE.
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.level>8</java.level>
-    <jenkins.version>2.89</jenkins.version>
+    <jenkins.version>2.126</jenkins.version>
     <jenkins.testharness.version>2.34</jenkins.testharness.version>
   </properties>
 
