@@ -1,4 +1,4 @@
-FROM jenkinsxio/jenkinsx:0.0.26
+FROM jenkinsxio/jenkinsx:SNAPSHOT-PR-33-3
 
 COPY  app/target/appassembler /app
 
